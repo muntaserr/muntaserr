@@ -7,7 +7,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="almuntaser | LinkedIn" width="22px" src="www.linkedin.com/in/almuntaser-al-maawali-972038291" />][linkedin]
 
 
 <!--
