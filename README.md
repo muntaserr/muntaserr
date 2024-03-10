@@ -1,4 +1,4 @@
-<h1> Hi, I'm Almuntaser! <br/> Programmer,Cybersecurity Professional</a>
+<h1> Hi, I'm Almuntaser! <br/> Programmer, Cybersecurity Professional</a>
 <h2> Overview</h2>
 I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.
 <h2>👨‍💻 Software Development Projects:</h2>
