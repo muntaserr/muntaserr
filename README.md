@@ -3,23 +3,28 @@
 I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.
 <h2>👨‍💻 Software Development Projects:</h2>
 
- <br/> Enterprise CMS Website Implementation </a> | WordPress, PHP, MySQL, JavaScript	                          Dec 2024
-•	Developed and customized a WordPress-based website for a local business, integrating plugins and performance optimizations.
-•	Maintained a structured MVC approach for backend operations using PHP.
-•	Ensured WCAG 2.0 AA compliance, debugging broken links and optimizing for SEO.
+<h3>Enterprise CMS Website Implementation</h3>
+<p><strong>Technologies:</strong> WordPress, PHP, MySQL, JavaScript</p>
+<ul>
+  <li>Developed and customized a <strong>WordPress</strong>-based website for a local business, integrating plugins and performance optimizations.</li>
+  <li>Maintained a structured <strong>MVC approach</strong> for backend operations using PHP.</li>
+  <li>Ensured <strong>WCAG 2.0 AA compliance</strong>, debugging broken links and optimizing for SEO.</li>
+</ul>
 
+<h3>Full-Stack Web Application</h3>
+<p><strong>Technologies:</strong> ASP.NET Core (C#), React (JavaScript)</p>
+<ul>
+  <li>Developed a banking dashboard with <strong>ASP.NET Core using the MVC pattern</strong> for structured backend logic and <strong>React.js for frontend visualization</strong>.</li>
+  <li>Integrated <strong>GitLab CI/CD pipelines</strong>, automating testing and deployment, reducing feature rollout time by 30%.</li>
+  <li>Implemented <strong>secure authentication and authorization flows</strong> in line with OWASP Top 10 best practices.</li>
+</ul>
 
-Quick Cash Mobile App| Android Studio, Java, Google Maps API, PayPal API	                          Dec 2024 
-•	Developed a job search app with dynamic location tracking, helping users find jobs faster and employers connect with suitable candidates.
-•	Dynamic location detection and Google Maps API integration for job visualization.
-•	Advanced search filters and real-time notifications for preferred jobs.
-•	Integrated PayPal API for instant online payments.
-
-
-Full-Stack Web Application Development | ASP.NET Core (C#), React (JavaScript)     	            Apr 2024
-•	Developed a banking dashboard with ASP.NET Core (C#) on the backend and React.js on the frontend, enhancing real-time data visualization for financial transactions.
-•	Implemented GitLab CI/CD pipelines to automate testing and deployment, expediting feature releases by 30%.
-•	Integrated secure authentication and authorization flows, aligning with OWASP Top 10 best practices.
+<h3>Quick Cash Mobile App</h3>
+<p><strong>Technologies:</strong> Android Studio, Java, Google Maps API, PayPal API</p>
+<ul>
+  <li>Built a <strong>job search mobile application</strong> that dynamically tracks and displays job opportunities on an interactive <strong>Google Maps API</strong> interface.</li>
+  <li>Integrated <strong>real-time job notifications</strong> and <strong>PayPal API for secure payments</strong>.</li>
+</ul>
 
 
 
