@@ -31,7 +31,32 @@ I am enthusiastic about information security and enjoy finding solutions that ca
 
 
 <h2>📺 Skills</h2>
+<h3>Web Development & CMS</h3>
+<ul>
+  <li>HTML, CSS, JavaScript, PHP</li>
+  <li>Experience with <strong>WordPress, SharePoint</strong> for content management</li>
+  <li>Website maintenance, security, and performance optimization</li>
+  <li>Ensuring <strong>WCAG 2.0 AA compliance</strong> and debugging broken links & server errors</li>
+</ul>
 
+<h3>Programming & Development</h3>
+<ul>
+  <li><strong>Languages:</strong> C#, Java, JavaScript, Python, PHP</li>
+  <li><strong>Frameworks & Libraries:</strong> ASP.NET Core (MVC pattern), React.js, Node.js, Bootstrap</li>
+  <li><strong>Databases:</strong> Microsoft SQL Server (SSIS, Stored Procedures, T-SQL), MySQL</li>
+  <li><strong>Version Control:</strong> Git, GitHub, GitLab CI/CD</li>
+</ul>
+
+<h3>Soft Skills</h3>
+<ul>
+  <li>Leadership, Collaboration, Analytical Thinking</li>
+  <li>Technical Writing, Communication (written/oral), Time Management</li>
+</ul>
+
+<h3>Languages</h3>
+<ul>
+  <li>English (Intermediate), Arabic (Fluent)</li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
